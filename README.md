@@ -1,15 +1,22 @@
-# 🧠 Language Model
-
-## ❓ What is Language Model?
+# 🤖 AI Application Dev Note
 
 ## 📜 List of Contents
 
-### [🦜 Langchain](./langchain/README.md)
+### 🌏 General Knowledge
 
-### [📚 RAG (Retrieval Augmented Generation)](./rag/README.md)
+- [ ] [🪙 Token](./general-knowledge/token.md)
 
-### [📝 Prompt Engineering](./prompt-engineering/README.md)
+### 🦜 Langchain
 
-### [🔧 Fine-tuning](./fine-tuning/README.md)
+> LangChain is a framework for developing applications powered by large language models (LLMs). - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 
-### [🤖 Agents](./agents/README.md)
+- [x] [🏃 Fast Implementation](./langchain/fast-implementation.md)
+- [ ] [🪟 Context Window](./langchain/context-window.md)
+
+### 📚 RAG (Retrieval Augmented Generation)
+
+### 📝 Prompt Engineering
+
+### 🔧 Fine-tuning
+
+### 🦾 Agents
